@@ -21,7 +21,7 @@ Clone this project and import as maven project in your IDE.
 
 1 > Folder Structure 
 
-	[![Folder-Structure](https://raw.githubusercontent.com/DhanrajTechforce/JavaSecurityDemo/master/SpringSecurityXml/image/folders.png)]
+	![Folder-Structure](https://raw.githubusercontent.com/DhanrajTechforce/JavaSecurityDemo/master/SpringSecurityXml/image/folders.png)
 	
 	
 ## Run example
