@@ -13,9 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
  - Tomcat 
  - Maven
  
-Give examples
 
-Clone this project and import as maven projetc in your IDE.
+Clone this project and import as maven project in your IDE.
 
 ### Installing
 
@@ -82,7 +81,7 @@ Clone this project and import as maven projetc in your IDE.
 
 ## Run example
 
-- Start tomcat server 
+- Start tomcat server and 
 	Try to open below link 
 	http://localhost:8080/Basic-Authentication/hello
 	
