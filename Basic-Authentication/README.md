@@ -87,9 +87,9 @@ Clone this project and import as maven project in your IDE.
 	
 	It will ask you for username and password.
 	
-	here iff you had provide tomcat role 
-	username = tomcat 
-	password = tomcat
+	here if you had provided tomcat role in web.xml you have to login with 
+	- username = tomcat 
+	- password = tomcat
 
 
 
