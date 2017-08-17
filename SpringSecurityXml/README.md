@@ -1,7 +1,7 @@
 # SpringSecurityXml
 
 This projects is small example Spring security having static user name and password and role ,to access specific urls.
-Username ,password,roles and url settings are defined in configuration file of spring 
+Username ,password,roles and url settings are defined in configuration file of spring.
 
 ## Getting Started
 
@@ -11,9 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 
  - Spring tools suite or Eclipse.
  - Knowledge of Spring MVC.
- - Java 1.8
- - Tomcat 
- - Maven
+ - Java 1.8.
+ - Tomcat.
+ - Mave.
  
 ### Step-by-step
 
@@ -67,7 +67,7 @@ Clone this project and import as maven project in your IDE.
 			  </authentication-provider>
 		</authentication-manager>
 
-4 > we also have to set some configuration web.xml file as below 
+4 > we also have to set some configuration web.xml file as below ,
 
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
@@ -108,8 +108,8 @@ Clone this project and import as maven project in your IDE.
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 	
-4 > Create one controller which returs jsp pages based on url mappings
-	in this example HomeController is responsible for mapping urls
+4 > Create one controller which returns jsp pages based on url mappings.
+	In this example HomeController is responsible for mapping urls.
 	
 	
 ## Run example
